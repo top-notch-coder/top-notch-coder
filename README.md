@@ -15,7 +15,7 @@
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=rust" alt="icon" width="65" height="65" />
-      <br>JavaScript
+      <br>Rust
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
