@@ -133,4 +133,4 @@
 [![My Skills](https://skillicons.dev/icons?i=wordpress,figma,notion,discord)](https://skillicons.dev)
 
 ## Other Technologies
-[![My Skills](https://skillicons.dev/icons?i=java,c++,csharp,go,rust)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,cs,go,rust)](https://skillicons.dev)
