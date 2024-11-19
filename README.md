@@ -115,7 +115,7 @@
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,django,flask,laravel,graphql,fastapi,ruby,rails,php,mysql,postgres,mongodb)](https://skillicons.dev)
 
 ## Windows Application Development
-[![My Skills](https://skillicons.dev/icons?i=dotnet,wpf,qt)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,qt)](https://skillicons.dev)
 
 ## AI and Machine Learning
 [![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,scikit-learn)](https://skillicons.dev)
