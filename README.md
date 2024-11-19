@@ -1,4 +1,4 @@
-# 💻 My favorite tools and technologies
+<!-- # 💻 My favorite tools and technologies
 <div style="display: flex; align-items: flex-start; justify-content: center; flex-wrap: wrap;">
     <table align="center" style="border-collapse: collapse; margin: 20px;">
         <tr>
@@ -104,4 +104,33 @@
             </td>
         </tr>
     </table>
-</div>
+</div> -->
+
+# 💻 My Skillset
+
+## Frontend
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vue,svelte,angular,bootstrap,tailwind,emotion,styledcomponents,figma,webpack)](https://skillicons.dev)
+
+## Backend
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,django,flask,laravel,graphql,fastapi,ruby,rails,php,mysql,postgres,mongodb)](https://skillicons.dev)
+
+## Windows Application Development
+[![My Skills](https://skillicons.dev/icons?i=dotnet,wpf,qt)](https://skillicons.dev)
+
+## AI and Machine Learning
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,scikit-learn)](https://skillicons.dev)
+
+## DevOps and Cloud
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,heroku,git,github,gitlab)](https://skillicons.dev)
+
+## Game Development
+[![My Skills](https://skillicons.dev/icons?i=unity,unreal,godot,gameMakerStudio)](https://skillicons.dev)
+
+## Scripting and Automation
+[![My Skills](https://skillicons.dev/icons?i=bash,python,perl,r)](https://skillicons.dev)
+
+## Miscellaneous
+[![My Skills](https://skillicons.dev/icons?i=wordpress,figma,notion,discord)](https://skillicons.dev)
+
+## Other Technologies
+[![My Skills](https://skillicons.dev/icons?i=java,c++,csharp,go,rust)](https://skillicons.dev)
