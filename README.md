@@ -97,7 +97,7 @@
                 <img src="https://skillicons.dev/icons?i=jest" alt="Jest" width="65" height="65" /><br>Jest
             </td>
             <td align="center" width="96" style="border: 1px solid #ddd; padding: 10px;">
-                <img src="https://skillicons.dev/icons?i=eslint" alt="ESLint" width="65" height="65" /><br>ESLint
+                <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="65" height="65" /><br>Node.js
             </td>
             <td align="center" width="96" style="border: 1px solid #ddd; padding: 10px;">
                 <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="65" height="65" /><br>Tailwind CSS
